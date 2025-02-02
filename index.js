@@ -1,4 +1,4 @@
 function test()
 {
-    alert("Hello");
+    alert("Ayre bl dares");
 }
