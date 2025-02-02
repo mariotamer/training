@@ -1,4 +1,4 @@
-finction ()
+function ()
 {
     alert("Hello");
 }
