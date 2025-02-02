@@ -1,0 +1,4 @@
+finction ()
+{
+    alert("Hello");
+}
